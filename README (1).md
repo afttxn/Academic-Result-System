@@ -1,7 +1,7 @@
 
 # Student result management system
 
-    This is one of my personal project, "Student result management system". which is built by Java, JFrames, Mysql.  
+    This is one of my personal  project, "Student result management system". which is built by Java, JFrames, Mysql.  
 
 
 ## Project description
